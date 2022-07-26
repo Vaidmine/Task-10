@@ -1,0 +1,1 @@
+export let d = 5 * 2;
